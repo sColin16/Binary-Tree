@@ -5,8 +5,7 @@ visualization
 
 ![Example of balanced tree](/photos/balanced.png)
 
-Inspired by Coding Train's [Binary Tree Visualization Challenge]
-(https://thecodingtrain.com/CodingChallenges/065.2-binary-tree-viz.html)
+Inspired by Coding Train's [Binary Tree Visualization Challenge](https://thecodingtrain.com/CodingChallenges/065.2-binary-tree-viz.html)
 
 ## What is a Binary Tree
 
@@ -17,8 +16,7 @@ greater than the value of the parent node.
 
 ![Binary Tree Example](https://www.baeldung.com/wp-content/uploads/2017/12/Tree-1.jpg)
 
-For more information, see [this explanation]
-(https://www.cs.cmu.edu/~adamchik/15-121/lectures/Trees/trees.html)
+For more information, see [this explanation](https://www.cs.cmu.edu/~adamchik/15-121/lectures/Trees/trees.html)
 from Carnegie Mellon University
 
 ## Using the Visualization
@@ -85,7 +83,6 @@ how each class functions**
  A library for creating visualizations using the canvas
 
 ## Future Ideas
-* Make the tree self-balancing using [AVL tree rotation]
-(https://www.cise.ufl.edu/~nemo/cop3530/AVL-Tree-Rotations.pdf)
+* Make the tree self-balancing using [AVL tree rotation](https://www.cise.ufl.edu/~nemo/cop3530/AVL-Tree-Rotations.pdf)
 * Add an animation for removing a node from the tree
 * Improve the performance of the Explorer class for larger trees with svg
