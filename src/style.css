@@ -1,0 +1,27 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+canvas {
+  display: block;
+}
+
+button {
+    padding: 4px;
+    margin: 0px 8px;
+    min-width: 64px;
+}
+
+#controls {
+    position: absolute;
+    padding: 16px;
+    top: 0px;
+    display: flex;
+}
+
+#speed-label, #help-label {
+    line-height: 200%;
+    padding: 0px 8px;
+    color: white;
+}
