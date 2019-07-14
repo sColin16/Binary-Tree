@@ -27,7 +27,8 @@ When the visualization is first opened, the screen will be empty
 
 To add a node to the tree, click the **Add** button, and enter an integer for
 the new node to hold. Watch as the animation adds the node to the tree. In this
-case, green represents the node that was just added
+case, green represents the node that was just added. To pan on the visualization,
+click and drag. To zoom in and out on the visualization, scroll up or down.
 
 ![Single node](/photos/singlenode.png)
 
